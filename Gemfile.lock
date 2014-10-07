@@ -1,0 +1,11 @@
+GEM
+  specs:
+    anbt-sql-formatter (0.0.2)
+    colorize (0.7.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  anbt-sql-formatter
+  colorize

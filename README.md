@@ -1,0 +1,4 @@
+grtail
+======
+
+Grouped RailsLog Tail
